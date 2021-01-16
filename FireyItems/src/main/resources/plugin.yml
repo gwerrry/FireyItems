@@ -1,0 +1,5 @@
+name: FireyItems
+main: com.gwerry.FireItem
+version: 1.0
+author: gwerry
+api-version: 1.16
